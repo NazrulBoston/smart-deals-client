@@ -1,0 +1,11 @@
+
+
+const AllProducts = () => {
+    return (
+        <div>
+            <h2>This is all products page</h2>
+        </div>
+    );
+};
+
+export default AllProducts;
